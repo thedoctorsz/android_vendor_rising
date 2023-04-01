@@ -133,6 +133,8 @@ PRODUCT_PACKAGES += \
     LineageParts \
     LineageSettingsProvider \
     LineageSetupWizard \
+    OmniJaws \
+    ParallelSpace \
     Updater
 
 PRODUCT_COPY_FILES += \
